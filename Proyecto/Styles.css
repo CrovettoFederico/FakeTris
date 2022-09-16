@@ -1,0 +1,21 @@
+.Grilla{
+    background-color: yellow;
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.Grilla div{
+    width: 20px;
+    height: 20px;
+    border-style: solid;
+    border-width: 1px;;
+    border-color: black;
+}
+
+body{
+       color: transparent;
+       text-shadow: 0px 0px 0px black;
+    }
